@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+}
+body{
+background-color: #07f4db
+}
+@media (max-width: 355px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    html { position: relative; }
+}
