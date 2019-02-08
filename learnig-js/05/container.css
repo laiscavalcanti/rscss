@@ -1,0 +1,24 @@
+.container{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+}
+.sy{
+    box-sizing: border-box;
+    position: relative;
+    left: 50%;
+    top: 50%; 
+    transform: translateX(-50%) translateY(-50%);
+    border: 2px solid #e70061;
+}
+.botao{
+    box-sizing: border-box;
+    justify-content: center;
+    position: relative; 
+    color: #ffe5da;
+    background-color: #2f4858;
+    border: 2px solid #e70061;
+    height: 25px; width: 65px;;
+ 
+}
